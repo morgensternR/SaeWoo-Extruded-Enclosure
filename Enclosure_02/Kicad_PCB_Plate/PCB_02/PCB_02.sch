@@ -153,6 +153,7 @@ F 0 "J1" H 5228 3026 50  0000 L CNN
 F 1 "Conn_01x07_Female" H 5228 2935 50  0000 L CNN
 F 2 "Connector:1x7_2.54mm_FemaleHeader" H 5200 3000 50  0001 C CNN
 F 3 "~" H 5200 3000 50  0001 C CNN
+F 4 "C358721" H 5200 3000 50  0001 C CNN "LCSC"
 	1    5200 3000
 	1    0    0    -1  
 $EndComp
@@ -164,6 +165,7 @@ F 0 "J2" H 6428 3026 50  0000 L CNN
 F 1 "Conn_01x07_Female" H 6428 2935 50  0000 L CNN
 F 2 "Connector:1x7_2.54mm_FemaleHeader" H 6400 3000 50  0001 C CNN
 F 3 "~" H 6400 3000 50  0001 C CNN
+F 4 "C358721" H 6400 3000 50  0001 C CNN "LCSC"
 	1    6400 3000
 	1    0    0    -1  
 $EndComp

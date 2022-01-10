@@ -146,27 +146,27 @@ F 3 "~" H 9350 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 0My_Library:USB-A-RA USB1
+L PCB_01-rescue:USB-A-RA-0My_Library USB1
 U 1 1 61D950C3
 P 3650 2300
 F 0 "USB1" H 3322 2396 50  0000 R CNN
 F 1 "USB-A-RA" H 3322 2305 50  0000 R CNN
 F 2 "Connector:USB-A-TH__USB-AF-90" H 3650 2693 50  0001 C CNN
 F 3 "http://www.szlcsc.com/product/details_2721.html" H 3650 2493 50  0001 C CNN
-F 4 "C2345" H 3650 2293 50  0001 C CNN "SuppliersPartNumber"
+F 4 "C2345" H 3650 2293 50  0001 C CNN "LCSC"
 F 5 "std:917e098b71c5410b898be352fdfd887b" H 3650 2293 50  0001 C CNN "uuid"
 	1    3650 2300
 	-1   0    0    -1  
 $EndComp
 $Comp
-L 0My_Library:USB-B_Panel CN1
+L PCB_01-rescue:USB-B_Panel-0My_Library CN1
 U 1 1 61D95AC0
 P 3150 2300
 F 0 "CN1" H 2872 2396 50  0000 R CNN
 F 1 "USB-B_Panel" H 2872 2305 50  0000 R CNN
 F 2 "Connector:USB-B_TH_BF90" H 3150 2711 50  0001 C CNN
 F 3 "http://www.szlcsc.com/product/details_87639.html" H 3150 2511 50  0001 C CNN
-F 4 "C86462" H 3150 2311 50  0001 C CNN "SuppliersPartNumber"
+F 4 "C86462" H 3150 2311 50  0001 C CNN "LCSC"
 F 5 "std:6520634b081bd6b08d0d07a24aca29a9" H 3150 2311 50  0001 C CNN "uuid"
 	1    3150 2300
 	1    0    0    -1  
@@ -219,6 +219,7 @@ F 0 "J1" H 5228 3026 50  0000 L CNN
 F 1 "Conn_01x07_Female" H 5228 2935 50  0000 L CNN
 F 2 "Connector:1x7_2.54mm_FemaleHeader" H 5200 3000 50  0001 C CNN
 F 3 "~" H 5200 3000 50  0001 C CNN
+F 4 "C358721" H 5200 3000 50  0001 C CNN "LCSC"
 	1    5200 3000
 	1    0    0    -1  
 $EndComp
@@ -230,6 +231,7 @@ F 0 "J2" H 6428 3026 50  0000 L CNN
 F 1 "Conn_01x07_Female" H 6428 2935 50  0000 L CNN
 F 2 "Connector:1x7_2.54mm_FemaleHeader" H 6400 3000 50  0001 C CNN
 F 3 "~" H 6400 3000 50  0001 C CNN
+F 4 "C358721" H 6400 3000 50  0001 C CNN "LCSC"
 	1    6400 3000
 	1    0    0    -1  
 $EndComp
