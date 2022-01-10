@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 292304-1
+#
+DEF 292304-1 CN 0 40 Y Y 1 F N
+F0 "CN" 0 611 50 H V C CNN
+F1 "292304-1" 0 811 50 H V C CNN
+F2 "kicad_lceda:USB-B_TH_BF90" 0 411 50 H I C CNN
+F3 "http://www.szlcsc.com/product/details_87639.html" 0 211 50 H I C CNN
+F4 "C86462" 0 11 50 H I C CNN "SuppliersPartNumber"
+F5 "std:6520634b081bd6b08d0d07a24aca29a9" 0 11 50 H I C CNN "uuid"
+DRAW
+S -250 300 100 -200 1 1 6 N
+X EH 5 -100 500 200 D 50 50 1 1 I 
+X EH 5 -100 -400 200 U 50 50 1 1 I 
+X VCC 1 300 200 200 L 50 50 1 1 I 
+X D- 2 300 100 200 L 50 50 1 1 I 
+X D+ 3 300 0 200 L 50 50 1 1 I 
+X GND 4 300 -100 200 L 50 50 1 1 I 
+ENDDRAW
+ENDDEF
+
+#
+#End Library
