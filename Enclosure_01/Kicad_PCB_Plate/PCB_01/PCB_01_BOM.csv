@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+"USB-B_Panel","CN1","Connector:USB-B_TH_BF90","C86462"
+"MountingHole","H1,H2,H3,H4,H5,H6,H7,H8,H9,H10,H11,H12","MountingHole:MountingHole_3.5mm_Pad",""
+"Conn_01x07_Female","J1,J2","Connector:1x7_2.54mm_FemaleHeader","C358721"
+"USB-A-RA","USB1","Connector:USB-A-TH__USB-AF-90","C2345"

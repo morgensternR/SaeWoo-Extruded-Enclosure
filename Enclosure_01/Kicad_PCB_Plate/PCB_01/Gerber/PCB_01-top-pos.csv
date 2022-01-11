@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"CN1","USB-B_Panel","USB-B_TH_BF90",35.000000,-150.400000,0.000000,top
+"J1","Conn_01x07_Female","1x7_2.54mm_FemaleHeader",22.860000,-113.490000,0.000000,top
+"J2","Conn_01x07_Female","1x7_2.54mm_FemaleHeader",22.800000,-128.730000,0.000000,top
+"USB1","USB-A-RA","USB-A-TH__USB-AF-90",50.000000,-121.000000,90.000000,top

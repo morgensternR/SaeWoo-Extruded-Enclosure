@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Cir\Documents\GitHub\SaeWoo_Extruded_Enclosure\Enclosure_01\Kicad_PCB_Plate\PCB_01\PCB_01.sch</source>
+    <date>1/10/2022 3:53:20 PM</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PCB_01.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8BD82</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8D679</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8E20A</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8E234</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8EDF0</tstamp>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8EE32</tstamp>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8EE3C</tstamp>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8EE46</tstamp>
+    </comp>
+    <comp ref="H9">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D910E4</tstamp>
+    </comp>
+    <comp ref="H10">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D91156</tstamp>
+    </comp>
+    <comp ref="H11">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D91160</tstamp>
+    </comp>
+    <comp ref="H12">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D9116A</tstamp>
+    </comp>
+    <comp ref="USB1">
+      <value>USB-A-RA</value>
+      <footprint>Connector:USB-A-TH__USB-AF-90</footprint>
+      <datasheet>http://www.szlcsc.com/product/details_2721.html</datasheet>
+      <fields>
+        <field name="LCSC">C2345</field>
+        <field name="uuid">std:917e098b71c5410b898be352fdfd887b</field>
+      </fields>
+      <libsource lib="PCB_01-rescue" part="USB-A-RA-0My_Library-PCB_01-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D950C3</tstamp>
+    </comp>
+    <comp ref="CN1">
+      <value>USB-B_Panel</value>
+      <footprint>Connector:USB-B_TH_BF90</footprint>
+      <datasheet>http://www.szlcsc.com/product/details_87639.html</datasheet>
+      <fields>
+        <field name="LCSC">C86462</field>
+        <field name="uuid">std:6520634b081bd6b08d0d07a24aca29a9</field>
+      </fields>
+      <libsource lib="PCB_01-rescue" part="USB-B_Panel-0My_Library-PCB_01-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D95AC0</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x07_Female</value>
+      <footprint>Connector:1x7_2.54mm_FemaleHeader</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C358721</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x07_Female" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D9DB95</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x07_Female</value>
+      <footprint>Connector:1x7_2.54mm_FemaleHeader</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C358721</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x07_Female" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D9F55B</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x07_Female">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="PCB_01-rescue" part="USB-A-RA-0My_Library-PCB_01-rescue">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">USB-A-RA-0My_Library-PCB_01-rescue</field>
+        <field name="Footprint">kicad_lceda:USB-A-TH__USB-AF-90</field>
+        <field name="Datasheet">http://www.szlcsc.com/product/details_2721.html</field>
+        <field name="SuppliersPartNumber">C2345</field>
+        <field name="uuid">std:917e098b71c5410b898be352fdfd887b</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="D-" type="input"/>
+        <pin num="3" name="D+" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="SH1" name="SH1" type="input"/>
+        <pin num="SH2" name="SH2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCB_01-rescue" part="USB-B_Panel-0My_Library-PCB_01-rescue">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">USB-B_Panel-0My_Library-PCB_01-rescue</field>
+        <field name="Footprint">kicad_lceda:USB-B_TH_BF90</field>
+        <field name="Datasheet">http://www.szlcsc.com/product/details_87639.html</field>
+        <field name="SuppliersPartNumber">C86462</field>
+        <field name="uuid">std:6520634b081bd6b08d0d07a24aca29a9</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="D-" type="input"/>
+        <pin num="3" name="D+" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="EH" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>E:\Program Files\KiCAD\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>E:\Program Files\KiCAD\share\kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="PCB_01-rescue">
+      <uri>C:\Users\Cir\Documents\GitHub\SaeWoo_Extruded_Enclosure\Enclosure_01\Kicad_PCB_Plate\PCB_01/PCB_01-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="2" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="3" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="4" name="Net-(J1-Pad5)">
+      <node ref="J1" pin="5"/>
+    </net>
+    <net code="5" name="Net-(J1-Pad6)">
+      <node ref="J1" pin="6"/>
+    </net>
+    <net code="6" name="Net-(J1-Pad7)">
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="7" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="8" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="9" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="10" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="11" name="Net-(J2-Pad5)">
+      <node ref="J2" pin="5"/>
+    </net>
+    <net code="12" name="Net-(J2-Pad6)">
+      <node ref="J2" pin="6"/>
+    </net>
+    <net code="13" name="Net-(J2-Pad7)">
+      <node ref="J2" pin="7"/>
+    </net>
+    <net code="14" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="15" name="Net-(CN1-Pad2)">
+      <node ref="USB1" pin="2"/>
+      <node ref="CN1" pin="2"/>
+    </net>
+    <net code="16" name="Net-(CN1-Pad3)">
+      <node ref="USB1" pin="3"/>
+      <node ref="CN1" pin="3"/>
+    </net>
+    <net code="17" name="Net-(CN1-Pad4)">
+      <node ref="CN1" pin="4"/>
+      <node ref="USB1" pin="4"/>
+    </net>
+    <net code="18" name="GND">
+      <node ref="CN1" pin="5"/>
+      <node ref="CN1" pin="5"/>
+      <node ref="USB1" pin="SH2"/>
+      <node ref="USB1" pin="SH1"/>
+    </net>
+    <net code="19" name="Net-(CN1-Pad1)">
+      <node ref="USB1" pin="1"/>
+      <node ref="CN1" pin="1"/>
+    </net>
+  </nets>
+</export>
