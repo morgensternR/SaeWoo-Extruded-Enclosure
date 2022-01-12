@@ -1,0 +1,64 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 0My_Library:MountingHole MH4
+U 1 1 61DF0BE4
+P 6700 2750
+F 0 "MH4" H 6780 2792 50  0000 L CNN
+F 1 "MountingHole" H 6780 2701 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm_Pad" H 6700 2750 50  0001 C CNN
+F 3 "~" H 6700 2750 50  0001 C CNN
+	1    6700 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 0My_Library:MountingHole MH2
+U 1 1 61DF1466
+P 6550 3050
+F 0 "MH2" H 6630 3092 50  0000 L CNN
+F 1 "MountingHole" H 6630 3001 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm_Pad" H 6550 3050 50  0001 C CNN
+F 3 "~" H 6550 3050 50  0001 C CNN
+	1    6550 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 0My_Library:MountingHole MH3
+U 1 1 61DF1A30
+P 6600 3500
+F 0 "MH3" H 6680 3542 50  0000 L CNN
+F 1 "MountingHole" H 6680 3451 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm_Pad" H 6600 3500 50  0001 C CNN
+F 3 "~" H 6600 3500 50  0001 C CNN
+	1    6600 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L 0My_Library:MountingHole MH1
+U 1 1 61DF1A36
+P 6450 3800
+F 0 "MH1" H 6530 3842 50  0000 L CNN
+F 1 "MountingHole" H 6530 3751 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm_Pad" H 6450 3800 50  0001 C CNN
+F 3 "~" H 6450 3800 50  0001 C CNN
+	1    6450 3800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6500 2750
+NoConn ~ 6350 3050
+NoConn ~ 6400 3500
+NoConn ~ 6250 3800
+$EndSCHEMATC
